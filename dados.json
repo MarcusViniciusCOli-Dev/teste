@@ -1,0 +1,26 @@
+[
+    {
+        "ID":1,
+        "Peso (g)":55,
+        "Tamanho (cm)":15,
+        "Acabamento":8
+    },
+    {
+        "ID":2,
+        "Peso (g)":120,
+        "Tamanho (cm)":19,
+        "Acabamento":5
+    },
+    {
+        "ID":3,
+        "Peso (g)":80,
+        "Tamanho (cm)":12,
+        "Acabamento":9
+    },
+    {
+        "ID":4,
+        "Peso (g)":45,
+        "Tamanho (cm)":11,
+        "Acabamento":6
+    }
+]
